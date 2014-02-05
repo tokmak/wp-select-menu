@@ -1,4 +1,4 @@
-wp-select-menu
+Custom Dropdown menu for Wordpress
 ==============
 
 Convert regular wp_nav_menu into select element
