@@ -3,7 +3,7 @@ Custom Dropdown menu for Wordpress
 
 Convert regular wp_nav_menu into select element
 
-#Put this into functions.php file
+###Put this into functions.php file
 
 ```php
 /**
@@ -31,7 +31,7 @@ class SelectBox_Menu_Walker extends Walker_Nav_Menu {
 ```
 
 
-#Usage
+###Usage
 
 ```php
 wp_nav_menu( array(
